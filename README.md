@@ -16,7 +16,7 @@
 #### 📄 Publications
 - **FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs**
   Wenlong Cheng, Yuan Gan, YunQiu Xu, Jiaxu Miao
-  [Project Page](https://spyzixuan.github.io/FedOT/) · arXiv (coming soon)
+  [Project Page](https://spyzixuan.github.io/FedOT/)
 
 #### 📚 Learning Resources
 If you're a beginner, check out my notes for getting started:
