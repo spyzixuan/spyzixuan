@@ -18,5 +18,10 @@
   Wenlong Cheng, Yuan Gan, YunQiu Xu, Jiaxu Miao
   [Project Page](https://spyzixuan.github.io/FedOT/) · arXiv (coming soon)
 
+#### 📚 Learning Resources
+If you're a beginner, check out my notes for getting started:
+- [Machine Learning](https://github.com/spyzixuan/Machine-Learning)
+- [Deep Learning](https://github.com/spyzixuan/Deep-Learning)
+
 #### 📫 Contact
 - ✉️ Email: 2023222209@nwnu.edu.cn (school) / chengwenlong831@gmail.com (personal)
