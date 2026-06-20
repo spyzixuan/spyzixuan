@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Wenlong Cheng 👋
 
-<!--
-**spyzixuan/spyzixuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. graduate, preparing to pursue a Ph.D.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏫 Education
+- **M.S. in Artificial Intelligence**, Northwest Normal University, 2023–2026
+- **B.S. in Software Engineering**, Shenyang Aerospace University, 2018–2022
+
+#### 🔬 Research Interests
+- Computer Vision
+- AI Security
+- 3D Human Motion
+
+#### 📄 Publications
+- **FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs**
+  Wenlong Cheng, Yuan Gan, YunQiu Xu, Jiaxu Miao
+  [Project Page](https://spyzixuan.github.io/FedOT/) · arXiv (coming soon)
+
+#### 📫 Contact
+- ✉️ Email: 2023222209@nwnu.edu.cn (school) / chengwenlong831@gmail.com (personal)
