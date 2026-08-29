@@ -1,7 +1,5 @@
 ### Hi, I'm Wenlong Cheng 👋
 
-🎓 M.S. graduate, preparing to pursue a Ph.D.
-
 ---
 
 #### 🏫 Education
